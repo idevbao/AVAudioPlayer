@@ -15,9 +15,14 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    [super viewDidLoad];//
+    [super viewDidLoad];
+    printf("print");
+    //
     
     //ssss
+    
+    
+    // add
 }
 
 
