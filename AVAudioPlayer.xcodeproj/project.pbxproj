@@ -13,6 +13,7 @@
 		4A90CE95204A1F3700031F86 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A90CE93204A1F3700031F86 /* Main.storyboard */; };
 		4A90CE97204A1F3700031F86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A90CE96204A1F3700031F86 /* Assets.xcassets */; };
 		4A90CE9A204A1F3700031F86 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A90CE98204A1F3700031F86 /* LaunchScreen.storyboard */; };
+		4A90CEA3204A267600031F86 /* Noi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4A90CEA2204A267600031F86 /* Noi.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		4A90CE96204A1F3700031F86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A90CE99204A1F3700031F86 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A90CE9B204A1F3800031F86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A90CEA1204A218B00031F86 /* CungAnh.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = CungAnh.m4a; sourceTree = "<group>"; };
+		4A90CEA2204A267600031F86 /* Noi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Noi.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				4A90CE90204A1F3700031F86 /* ViewController.h */,
 				4A90CE91204A1F3700031F86 /* ViewController.m */,
 				4A90CE93204A1F3700031F86 /* Main.storyboard */,
+				4A90CEA1204A218B00031F86 /* CungAnh.m4a */,
+				4A90CEA2204A267600031F86 /* Noi.mp3 */,
 				4A90CE96204A1F3700031F86 /* Assets.xcassets */,
 				4A90CE98204A1F3700031F86 /* LaunchScreen.storyboard */,
 				4A90CE9B204A1F3800031F86 /* Info.plist */,
@@ -138,6 +143,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A90CEA3204A267600031F86 /* Noi.mp3 in Resources */,
 				4A90CE9A204A1F3700031F86 /* LaunchScreen.storyboard in Resources */,
 				4A90CE97204A1F3700031F86 /* Assets.xcassets in Resources */,
 				4A90CE95204A1F3700031F86 /* Main.storyboard in Resources */,
