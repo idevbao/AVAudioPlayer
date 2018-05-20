@@ -148,7 +148,7 @@
     _player =[[AVPlayer alloc] initWithURL:url];
     
     [self.audioPlayer prepareToPlay];
-    //    self.slider_showtimeCrrent.maximumValue = [self.audioPlayer duration];
+    //    self.slider_showtimeCrre`nt.maximumValue = [self.audioPlayer duration];
     
     self.slider_showtimeCrrent.maximumValue = CMTimeGetSeconds(_player.currentItem.asset.duration);
     self.slider_showtimeCrrent.maximumTrackTintColor = [UIColor blackColor];
